@@ -1,0 +1,2 @@
+classpath=/usr/hdp/2.5.0.0-1245/hadoop/conf:/usr/hdp/2.5.0.0-1245/hive/conf:/usr/hdp/2.5.0.0-1245/hadoop/conf:/usr/hdp/2.5.0.0-1245/hadoop/lib/*:/usr/hdp/2.5.0.0-1245/hive/lib/*
+java -cp $classpath com.test.HiveJDBCConnection
